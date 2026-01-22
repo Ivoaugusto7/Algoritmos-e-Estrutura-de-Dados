@@ -5,8 +5,10 @@ Repositório dedicado a disciplina de AED.
 
 ### 1. Algoritmos Recursivos
 - Fatorial
-- Fibonacci
-- Pesquisa binária recursiva
+- Palindromo
+- Passagem de Parametros
+- Soma De Gols
+- Tabela da Verdade
 
 ### 2. Análise de Algoritmos
 - Medição de tempo de execução
