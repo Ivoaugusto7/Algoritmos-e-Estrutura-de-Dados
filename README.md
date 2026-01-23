@@ -11,9 +11,11 @@ Repositório dedicado a disciplina de AED.
 - Tabela da Verdade
 
 ### 2. Análise de Algoritmos
-- Medição de tempo de execução
-- Comparação de algoritmos O(n) vs O(n²)
-- Visualização de crescimento de complexidade
+- Potência, Logaritmo, Piso e Teto, e Função
+- Contagem de operações
+- Aspectos da análise de algoritmos
+- Função de complexidade
+- Notações O, Ω e 𝚯
 
 ### 3. Ordenação Interna
 - Bubble Sort
